@@ -12,6 +12,10 @@ public:
         return a * b;
     }
 };
+class segitiga
+{
+
+};
 int main()
 {
     std::cout << "Hello World!\n";
