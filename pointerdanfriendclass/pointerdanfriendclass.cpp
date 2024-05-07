@@ -14,6 +14,8 @@ public:
 };
 class segitiga
 {
+    
+public:
 
 };
 int main()
