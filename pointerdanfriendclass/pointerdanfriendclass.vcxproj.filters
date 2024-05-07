@@ -30,5 +30,8 @@
     <ClCompile Include="pointerdanfriendclass5.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="pointerdanfriendclass6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
