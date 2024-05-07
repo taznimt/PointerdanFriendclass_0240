@@ -7,4 +7,5 @@ private:
 	string nama;
 
 public:
+	void setNama(string pNama);
 };
