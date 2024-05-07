@@ -24,5 +24,8 @@
     <ClCompile Include="pointerdanfriendclass3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="pointerdanfriendclass4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
